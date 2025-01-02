@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisaVRitt
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java language and frontend progaming!
+- 🌱 I’m currently learning Java language and frontend progamming!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luisavritt@outlook.com
 - 😄 Pronouns: she/her
